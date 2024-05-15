@@ -1,0 +1,15 @@
+
+.app-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.app-title {
+  text-align: center;
+  color: #333;
+  font-size: 24px;
+}
+
+
+
